@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065840583671",
+    "project_id": "lbp-app-5e8a6",
+    "storage_bucket": "lbp-app-5e8a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065840583671:android:fd92b112d22e0484b2c4f2",
+        "android_client_info": {
+          "package_name": "com.example.lbp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9LjgzMrI8vMTPAQjEEokMKW5HHp3MNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
